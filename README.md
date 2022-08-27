@@ -5,7 +5,7 @@
 
 ## Ambiente Remoto
 
-**IP Pública BD Postgres: ** 34.69.37.139
+**IP Pública BD Postgres:** 34.69.37.139
 
 **URL conexión:** jdbc:postgresql://34.69.37.139:5432/mutantes_db
 
