@@ -6,6 +6,11 @@ import org.springframework.data.repository.query.Param;
 import org.springframework.stereotype.Repository;
 import com.mutantes.entity.DNAEntity;
 
+/**
+ * Repositorio de persistencia para DNAEntity
+ * @author sebastian
+ *
+ */
 @Repository
 public interface DNARepository extends JpaRepository<DNAEntity, Integer>{
 	

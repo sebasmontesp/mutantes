@@ -13,6 +13,11 @@ import com.mutantes.entity.DNAEntity;
 import com.mutantes.repository.DNARepository;
 import com.mutantes.util.MatrixUtils;
 
+/**
+ * Servicio que implementa la lógica de negocio
+ * @author sebastian
+ *
+ */
 @Service
 public class DNAService {
 

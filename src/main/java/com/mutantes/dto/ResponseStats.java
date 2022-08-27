@@ -5,6 +5,11 @@ import com.fasterxml.jackson.annotation.JsonProperty;
 import lombok.Getter;
 import lombok.Setter;
 
+/**
+ * Representa un reporte estadístico de los DNAs analizados
+ * @author sebastian
+ *
+ */
 @Getter
 @Setter
 public class ResponseStats {

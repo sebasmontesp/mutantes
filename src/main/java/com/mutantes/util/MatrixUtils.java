@@ -1,7 +1,17 @@
 package com.mutantes.util;
 
+/**
+ * Clase con funciones utilitarias relacionadas con el manejo de Matrices
+ * @author sebastian
+ *
+ */
 public class MatrixUtils {
 	
+	/**
+	 * Determina si el contenido de una matriz es válido
+	 * @param dna
+	 * @return
+	 */
 	public static boolean isMatrixValid(String[] dna) {
 		int n = dna.length;
 		
@@ -31,6 +41,11 @@ public class MatrixUtils {
 		return true;
 	}
 	
+	/**
+	 * Convierte un arreglo de String en una matriz con un caracter por celda
+	 * @param dna Arreglo de String
+	 * @return
+	 */
 	public static char[][] dnaToMatrix(String[] dna) {
 		int n = dna.length;
 		char[][] result = new char[n][n];

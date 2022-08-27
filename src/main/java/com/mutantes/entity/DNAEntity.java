@@ -10,6 +10,11 @@ import javax.persistence.Table;
 import lombok.Getter;
 import lombok.Setter;
 
+/**
+ * Mapeo ORM de la Tabla 'analisis' en postgresql
+ * @author sebastian
+ *
+ */
 @Getter
 @Setter
 @Entity
