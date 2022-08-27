@@ -1,6 +1,7 @@
 # Proyecto Mutantes - Prueba Técnica
 
 **Autor:** Sebastian Montes Peña
+
 **Fecha:** Agosto 27 de 2022
 
 ## Ambiente Remoto
